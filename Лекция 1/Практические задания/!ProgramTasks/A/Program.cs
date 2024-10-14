@@ -1,10 +1,13 @@
-﻿namespace A
+﻿using System.Collections.Generic;
+
+namespace A
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // пишите код тут
+            Console.WriteLine("The first step!");
+            Console.ReadKey();
         }
     }
 }
